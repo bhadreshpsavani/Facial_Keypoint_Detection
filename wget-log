@@ -1,0 +1,11 @@
+--2019-11-11 15:35:19--  https://s3.amazonaws.com/video.udacity-data.com/topher/2018/May/5aea1b91_train-test-data/train-test-data.zip
+Resolving s3.amazonaws.com (s3.amazonaws.com)... 52.216.129.21
+Connecting to s3.amazonaws.com (s3.amazonaws.com)|52.216.129.21|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 338613624 (323M) [application/zip]
+Saving to: ‘/data/train-test-data.zip.9’
+
+train-test-data.zip  45%[========>           ] 147.17M  66.5MB/s               train-test-data.zip  50%[=========>          ] 161.72M  67.0MB/s               train-test-data.zip  54%[=========>          ] 176.25M  67.0MB/s               train-test-data.zip  59%[==========>         ] 191.42M  67.7MB/s               train-test-data.zip  64%[===========>        ] 206.68M  68.2MB/s    eta 2s     train-test-data.zip  68%[============>       ] 221.14M  68.5MB/s    eta 2s     train-test-data.zip  72%[=============>      ] 234.92M  71.3MB/s    eta 2s     train-test-data.zip  77%[==============>     ] 249.71M  65.4MB/s    eta 2s     train-test-data.zip  77%[==============>     ] 251.33M  58.3MB/s    eta 1s     train-test-data.zip  83%[===============>    ] 269.68M  59.5MB/s    eta 1s     train-test-data.zip  88%[================>   ] 284.61M  59.8MB/s    eta 1s     train-test-data.zip  92%[=================>  ] 299.17M  59.6MB/s    eta 1s     train-test-data.zip  97%[==================> ] 314.40M  59.6MB/s    eta 1s     train-test-data.zip 100%[===================>] 322.93M  60.2MB/s    in 5.3s    
+
+2019-11-11 15:35:24 (60.9 MB/s) - ‘/data/train-test-data.zip.9’ saved [338613624/338613624]
+
